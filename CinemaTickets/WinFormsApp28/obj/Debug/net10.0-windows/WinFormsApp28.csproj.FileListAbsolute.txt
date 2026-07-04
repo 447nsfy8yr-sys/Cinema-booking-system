@@ -1,0 +1,16 @@
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\bin\Debug\net10.0-windows\WinFormsApp28.exe
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\bin\Debug\net10.0-windows\WinFormsApp28.deps.json
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\bin\Debug\net10.0-windows\WinFormsApp28.runtimeconfig.json
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\bin\Debug\net10.0-windows\WinFormsApp28.dll
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\bin\Debug\net10.0-windows\WinFormsApp28.pdb
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.Form1.resources
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.csproj.GenerateResource.cache
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.AssemblyInfoInputs.cache
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.AssemblyInfo.cs
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.dll
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\refint\WinFormsApp28.dll
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.pdb
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\WinFormsApp28.genruntimeconfig.cache
+C:\Users\unss\source\repos\WinFormsApp28\WinFormsApp28\obj\Debug\net10.0-windows\ref\WinFormsApp28.dll
